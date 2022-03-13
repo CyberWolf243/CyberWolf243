@@ -16,7 +16,7 @@
   <img align="center" alt="Juniin-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Juniin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <img align="right" alt="Juniin-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Juniin-png" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1h0rmKuQCpdXtUo5mzVCmHf0HFCrMUWE4/view?usp=sharing">
 </div>
   
   ##
