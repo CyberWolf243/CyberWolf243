@@ -1,4 +1,12 @@
-### Hi there 👋
+### Elias Junior Ferreira de Oliveira 👋
+
+Desenvolvedor Web FullStack
+
+Análise e desenvolvimento de sistemas 🎓
+
+PORTFOLIO - https://bityli.com/GOiRArjCz
+
+
 
 <div align="center">
   <a href="https://github.com/CyberWolf243">
@@ -14,7 +22,6 @@
   <img align="center" alt="Juniin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juniin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juniin-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Juniin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   <img align="right" alt="Juniin-png" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1h0rmKuQCpdXtUo5mzVCmHf0HFCrMUWE4/view?usp=sharing">
 </div>
